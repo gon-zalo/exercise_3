@@ -4,7 +4,7 @@ trabajar    trabajaba   trabajador  0.5250              0.3823
 jugar       jugaba      jugador     0.6301              0.5084
 gobernar    gobernaba   gobernador  0.5418              0.4135
 poseer      poseía      poseedor    0.5788              0.5954
-cambia      cambiaba    cambiador   0.6320              0.3089
+cambiar     cambiaba    cambiador   0.5381              0.3285
 consumir    consumía    consumidor  0.5506              0.3982
 entender    entendía    entendedor  0.5254              0.3452
 conservar   conservaba  conservador 0.5281              0.2882
@@ -49,11 +49,10 @@ computar    computaba   computador  0.4577              0.2975
 mostrar     mostraba    mostrador   0.5245              0.2395
 pensar      pensaba     pensador    0.5131              0.3357
 negociar    negociaba   negociador  0.5815              0.6231
-
 Inflection Offset: [-0.03769205 -0.0200504  -0.0930462  -0.04638774  0.06430924]
 Derivation Offset: [-0.01068762  0.02022607 -0.02180268 -0.0177797  -0.02992181]
 
 Cosine Similarity between Inflection and Derivation Offsets: 0.3521
 
-T-test result: t = 8.2988, p = 0.0000
+T-test result: t = 8.4018, p = 0.0000
 Inflection is significantly more predictable than derivation!
