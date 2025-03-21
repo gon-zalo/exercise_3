@@ -1,0 +1,59 @@
+Pivot       Inflection  Derivation  PI similarity      PD similarity
+tener       tenía       tenedor     0.5797              0.1719
+trabajar    trabajaba   trabajador  0.5250              0.3823
+jugar       jugaba      jugador     0.6301              0.5084
+gobernar    gobernaba   gobernador  0.5418              0.4135
+poseer      poseía      poseedor    0.5788              0.5954
+cambia      cambiaba    cambiador   0.6320              0.3089
+consumir    consumía    consumidor  0.5506              0.3982
+entender    entendía    entendedor  0.5254              0.3452
+conservar   conservaba  conservador 0.5281              0.2882
+entrenar    entrenaba   entrenador  0.6266              0.5485
+correr      corría      corredor    0.5994              0.4775
+seguir      seguía      seguidor    0.5558              0.2969
+comer       comía       comedor     0.5678              0.3410
+abrir       abría       abridor     0.5791              0.2654
+ordenar     ordenaba    ordenador   0.5175              0.2185
+observar    observaba   observador  0.5421              0.4396
+colaborar   colaboraba  colaborador 0.5326              0.4671
+investigar  investigaba investigador0.5570              0.3781
+coordinar   coordinaba  coordinador 0.4966              0.3984
+crear       creaba      creador     0.5132              0.4240
+explorar    exploraba   explorador  0.5102              0.3723
+ganar       ganaba      ganador     0.5929              0.4769
+contener    contenía    contenedor  0.4924              0.3427
+vender      vendía      vendedor    0.5954              0.5247
+salvar      salvaba     salvador    0.5139              0.4824
+organizar   organizaba  organizador 0.5332              0.4987
+transformar transformabatransformador0.4647              0.4444
+limpiar     limpiaba    limpiador   0.5709              0.6050
+indicar     indicaba    indicador   0.5202              0.4855
+operar      operaba     operador    0.5566              0.5040
+fundar      fundaba     fundador    0.5527              0.4775
+cazar       cazaba      cazador     0.6635              0.6341
+marcar      marcaba     marcador    0.5376              0.4978
+narrar      narraba     narrador    0.5462              0.5886
+pescar      pescaba     pescador    0.6610              0.5856
+vencer      vencía      vencedor    0.5113              0.4694
+servir      servía      servidor    0.5893              0.2380
+reparar     reparaba    reparador   0.5389              0.4537
+comprar     compraba    comprador   0.5839              0.4666
+realizar    realizaba   realizador  0.5793              0.3238
+poblar      poblaba     poblador    0.4593              0.3835
+proveer     proveía     proveedor   0.5118              0.4291
+conquistar  conquistaba conquistador0.5739              0.4629
+presentar   presentaba  presentador 0.5263              0.3737
+competir    competía    competidor  0.5715              0.5459
+diseñar     diseñaba    diseñador   0.4963              0.4907
+computar    computaba   computador  0.4577              0.2975
+mostrar     mostraba    mostrador   0.5245              0.2395
+pensar      pensaba     pensador    0.5131              0.3357
+negociar    negociaba   negociador  0.5815              0.6231
+
+Inflection Offset: [-0.03769205 -0.0200504  -0.0930462  -0.04638774  0.06430924]
+Derivation Offset: [-0.01068762  0.02022607 -0.02180268 -0.0177797  -0.02992181]
+
+Cosine Similarity between Inflection and Derivation Offsets: 0.3521
+
+T-test result: t = 8.2988, p = 0.0000
+Inflection is significantly more predictable than derivation!
