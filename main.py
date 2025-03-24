@@ -16,12 +16,6 @@ fasttext_model = fasttext.load_model('cc.es.300.bin')  # loads embeddings
 file_path = "dataset.csv"
 df = pd.read_csv(file_path)
 
-# function to calculate vector offset
-def vector_offset(pivot, modified_word, model):
-    vec_base = model.get_word_vector(pivot) # vector of the pivot
-    vec_modified = model.get_word_vector(modified_word) # vector of the inflection/derivation
-    return vec_modified - vec_base
-
 # calculate cosine similarities between pivot and inflection/derivation
 results = []
 for _, row in df.iterrows():
