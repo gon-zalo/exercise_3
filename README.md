@@ -1,0 +1,1 @@
+This class project explores the distinction between inflectional and derivational morphology using a distributional vector space model (FastText word embeddings). Specifically, I analyze the semantic similarity between Spanish verbs in infinitive, their inflected past imperfect forms, and their derived nominalizations (nouns that end in -dor).
